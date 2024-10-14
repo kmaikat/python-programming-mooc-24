@@ -8,6 +8,7 @@ Paul
 Paul
 '''
 
+# run python file using 'python 06_name_twice/name_twice.py'
 name = input("What is your name? ")
 print(name)
 print(name)
